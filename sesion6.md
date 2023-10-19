@@ -3,8 +3,7 @@
 
 ## Sesión 6
 
-
-<!-- Su documentación aquí -->
+# EXAMEN 
 
 
 

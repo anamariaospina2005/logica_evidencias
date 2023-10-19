@@ -3,8 +3,13 @@
 
 ## Sesión 9 
 
+# Actividad: Ejecicios de métodos en Java
 
-<!-- Su documentación aquí -->
+Resolver en parejas el ejercicio asignado por el docente
+
+# SOLUCIÓN...
+
+
 
 
 
